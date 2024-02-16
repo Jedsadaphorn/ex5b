@@ -34,10 +34,25 @@
     <tbody>
       <tr>
 		<td rowspan="7"><img src="images/alan.png" class="rounded mx-auto d-block" alt="Alan McDonald" width="200" height="356"></td>
-        <th>ความสามารถพิเศษ:</th>
-        <td>ปั่นจักรยานไม่ใช้มือ, เล่นเกมพร้อมกัน2เครื่อง</td>
+        <th>Graduated from school:</th>
+        <td>Chumphon Wittayasan School</td>
       </tr>
       <tr>
+        <th>Graduation level:</th>
+        <td>Mathayom 6</td>
+      </tr>
+	  <tr>
+        <th>Academic results:</th>
+        <td>2.25</td>
+      </tr>
+	  <tr>
+        <th>Tel</th>
+        <td>0990217811</td>
+      </tr>
+	  <tr>
+        
+      </tr>
+	  <tr>
       </tr>
 	  <tr>
       </tr>
